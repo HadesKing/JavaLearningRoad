@@ -6,6 +6,14 @@
 
 [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages)
 
+[Video]
+google the key: programming paradigms stanford
+
+OR go to Stanford
+
+https://see.stanford.edu/Course/CS107
+
+https://see.stanford.edu/Course
 
 
 
@@ -19,5 +27,5 @@
 [Description](https://en.wikipedia.org/wiki/Procedural_programming)
 
 
-
 Hear, I show two commonly used programming paradigms.
+
