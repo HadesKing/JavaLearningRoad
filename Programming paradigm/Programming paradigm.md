@@ -1,6 +1,6 @@
 
 
-# Programming paradigm
+# Programming paradigm （编程范式）
 
 [Description](https://en.wikipedia.org/wiki/Programming_paradigm) 
 
